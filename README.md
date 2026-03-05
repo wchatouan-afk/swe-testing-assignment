@@ -13,4 +13,4 @@ Lancez la commande suivante dans votre terminal :
 J'ai comparé **Unittest** et **Pytest**. 
 - **Unittest** est intégré à Python (pas d'installation) et utilise des classes.
 - **Pytest** est plus flexible mais nécessite une installation via `pip`.
-**Justification** : J'ai choisi **Unittest** pour garantir que mon projet soit exécutable immédiatement sans dépendances externes.
+**Justification** : J'ai choisi **Unittest** pour garantir que mon projet soit exécutable immédiatement sans dépendances externes. chore: final documentation polish
